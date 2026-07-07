@@ -1,0 +1,40 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "Cutoff Calculator Group",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "1",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Personalized cutoff-time calculator and intake history graph.",
+              "displayName": "Cutoff Calculator",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.caffeinecutoff2.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Cutoff Calculator",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 1
+  }
+}
